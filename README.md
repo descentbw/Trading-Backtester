@@ -1,0 +1,1 @@
+This project aims to analyse how a trading strategy combining mean reversion and trend-following techniques, through the use of Bollinger Bands (BB) and Moving Average Convergence/Divergence (MACD) indicators, perform for a portfolio of stocks.
